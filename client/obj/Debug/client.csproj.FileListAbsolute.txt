@@ -1,0 +1,16 @@
+C:\Users\PC\documents\visual studio 2013\Projects\pndcServers\client\bin\Debug\client.exe.config
+C:\Users\PC\documents\visual studio 2013\Projects\pndcServers\client\bin\Debug\client.exe
+C:\Users\PC\documents\visual studio 2013\Projects\pndcServers\client\bin\Debug\client.pdb
+C:\Users\PC\documents\visual studio 2013\Projects\pndcServers\client\bin\Debug\dataHouse.dll
+C:\Users\PC\documents\visual studio 2013\Projects\pndcServers\client\bin\Debug\dataHouse.pdb
+C:\Users\PC\documents\visual studio 2013\Projects\pndcServers\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\PC\documents\visual studio 2013\Projects\pndcServers\client\obj\Debug\client.exe
+C:\Users\PC\documents\visual studio 2013\Projects\pndcServers\client\obj\Debug\client.pdb
+C:\Users\danial\Desktop\pndcServers\client\bin\Debug\client.exe.config
+C:\Users\danial\Desktop\pndcServers\client\bin\Debug\client.exe
+C:\Users\danial\Desktop\pndcServers\client\bin\Debug\client.pdb
+C:\Users\danial\Desktop\pndcServers\client\bin\Debug\dataHouse.dll
+C:\Users\danial\Desktop\pndcServers\client\bin\Debug\dataHouse.pdb
+C:\Users\danial\Desktop\pndcServers\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\danial\Desktop\pndcServers\client\obj\Debug\client.exe
+C:\Users\danial\Desktop\pndcServers\client\obj\Debug\client.pdb

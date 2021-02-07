@@ -1,0 +1,19 @@
+c:\users\pc\documents\visual studio 2013\Projects\pndcServers\server\bin\Debug\server.exe.config
+C:\Users\PC\documents\visual studio 2013\Projects\pndcServers\server\bin\Debug\server.exe
+C:\Users\PC\documents\visual studio 2013\Projects\pndcServers\server\bin\Debug\server.pdb
+C:\Users\PC\documents\visual studio 2013\Projects\pndcServers\server\bin\Debug\dataHouse.dll
+C:\Users\PC\documents\visual studio 2013\Projects\pndcServers\server\bin\Debug\dataHouse.pdb
+C:\Users\PC\documents\visual studio 2013\Projects\pndcServers\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+C:\Users\PC\documents\visual studio 2013\Projects\pndcServers\server\obj\Debug\server.exe
+C:\Users\PC\documents\visual studio 2013\Projects\pndcServers\server\obj\Debug\server.pdb
+C:\Users\danial\Desktop\pndcServers\server\bin\Debug\server.exe.config
+C:\Users\danial\Desktop\pndcServers\server\obj\Debug\server.exe
+C:\Users\danial\Desktop\pndcServers\server\obj\Debug\server.pdb
+C:\Users\danial\Desktop\pndcServers\server\bin\Debug\server.exe
+C:\Users\danial\Desktop\pndcServers\server\bin\Debug\server.pdb
+C:\Users\danial\Desktop\pndcServers\server\bin\Debug\dataHouse.dll
+C:\Users\danial\Desktop\pndcServers\server\bin\Debug\dataHouse.pdb
+C:\Users\danial\Desktop\pndcServers\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+D:\NotUseless\DownloadItems\pndcServers\server\bin\Debug\server.exe.config
+D:\NotUseless\DownloadItems\pndcServers\server\obj\Debug\server.exe
+D:\NotUseless\DownloadItems\pndcServers\server\obj\Debug\server.pdb
